@@ -1,2 +1,1 @@
-# android-myfirstapp
-2020
+# [My First App](https://developer.android.com/training/basics/firstapp)
